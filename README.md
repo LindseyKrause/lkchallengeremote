@@ -36,6 +36,7 @@ Lindsey Krause
    * CSS Properly Commented
 
    * CSS selectors and Properties are consolidated and organized to follow semantic structure
+      *reduced code by 83 lines
 
    * Links Function Correctly
 
