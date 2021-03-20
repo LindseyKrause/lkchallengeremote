@@ -54,4 +54,4 @@ Lindsey Krause
     * Initial Release
 
 ## License/Acknowledgments
-The initial code written by and belongs to Trilogy.  This is a refactor for a University of Arizona bootcamp project run by Trilogy. 
+The initial code provided by University of Arizona via Trilogy bootcamp program.  Original code can be found https://github.com/coding-boot-camp/urban-octo-telegram.git
