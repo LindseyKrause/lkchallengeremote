@@ -70,7 +70,8 @@ a {
     color: #ffffff;
 }
 /* Search Engine Optimization Img Style */
-.search-engine-optimization img {
+/* Social Media Marketing Img Style */
+.search-engine-optimization img, .social-media-marketing img {
     float: left;
     margin-right: 25px;
 }
@@ -78,11 +79,6 @@ a {
 .online-reputation-management img {
     float: right;
     margin-left: 25px;
-}
-/* Social Media Marketing Img Style */
-.social-media-marketing img {
-    float: left;
-    margin-right: 25px;
 }
 /* Benefit Style Start */ 
 .benefits {
